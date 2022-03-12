@@ -1,0 +1,38 @@
+{
+  "goroceries": [
+    {
+      "title": "apple",
+      "purchase": false,
+      "id": 1,
+      "status": false
+    },
+    {
+      "title": "fires",
+      "purchase": false,
+      "id": 5,
+      "status": false
+    },
+    {
+      "title": "hight",
+      "purchase": false,
+      "id": 7,
+      "status": false
+    },
+    {
+      "title": "dog",
+      "purchase": false,
+      "id": 8,
+      "status": true
+    },
+    {
+      "title": "vijendra",
+      "status": true,
+      "id": 9
+    },
+    {
+      "title": "sahil",
+      "status": true,
+      "id": 10
+    }
+  ]
+}
