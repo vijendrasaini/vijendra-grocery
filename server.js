@@ -8,5 +8,7 @@ const middlewares = jsonServer.defaults()
 //setting up api url
 server.use(middlewares)
 server.use(jsonServer.bodyParser)
-server.use('/', router)
+
+
+server.use(router)
 server.listen(port, () => console.log(`JSON Server is running on port ${port}`))
